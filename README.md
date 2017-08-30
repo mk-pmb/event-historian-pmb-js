@@ -9,6 +9,9 @@ Watch a standard node.js EventEmitter so you can be notified of events even
 after they already happened.
 <!--/#echo -->
 
+For a minimalist, stripped-down version of `.asSoonAs()`,
+check package `late-once-pmb`.
+
 
 Usage
 -----

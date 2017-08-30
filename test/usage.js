@@ -4,7 +4,7 @@
 
 require('usnam-pmb');
 
-var events = require('events'), equal = require('equal-pmb'), test = {},
+var equal = require('equal-pmb'), test = {},
   makeLogger = require('subjlog1707-pmb');
 
 test.toString = function () { return 'usage test'; };

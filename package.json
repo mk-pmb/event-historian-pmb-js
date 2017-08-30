@@ -1,5 +1,5 @@
 { "name": "event-historian-pmb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Watch a standard node.js EventEmitter so you can be notified of events even after they already happened.",
   "keywords": [
     "event emitter",
@@ -31,7 +31,10 @@
 
   "dependencies": {},
   "devDependencies": {
-    "equal-pmb": "^0.1.6"
+    "equal-pmb": "^0.1.13",
+    "event-test-clock-pmb": "^1.0.0",
+    "subjlog1707-pmb": "^1.0.2",
+    "usnam-pmb": "^0.2.3"
   },
 
 
